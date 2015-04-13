@@ -56,5 +56,19 @@
       }
    },
    "release_status" : "unstable",
-   "version" : "0.01"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/yowcow/p5-String-MkPasswd-Secure/issues"
+      },
+      "homepage" : "https://github.com/yowcow/p5-String-MkPasswd-Secure",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/yowcow/p5-String-MkPasswd-Secure.git",
+         "web" : "https://github.com/yowcow/p5-String-MkPasswd-Secure"
+      }
+   },
+   "version" : "0.01",
+   "x_contributors" : [
+      "yowcow <yowcow@gmail.com>"
+   ]
 }

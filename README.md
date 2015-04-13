@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/yowcow/p5-String-MkPasswd-Secure.svg?branch=master)](https://travis-ci.org/yowcow/p5-String-MkPasswd-Secure)
 # NAME
 
 String::MkPasswd::Secure - Simple secure password generator
